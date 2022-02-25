@@ -215,7 +215,7 @@ p .center {
 	text-align: justify;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 300px;
+	max-height: 50px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
