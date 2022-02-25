@@ -209,8 +209,8 @@ p .center {
 	padding-bottom: 10px;
 	background-color: #2f2f2f; */
     
-	background: url(../images/DIF.jpg) no-repeat center top;
-	margin-top: -70px;
+	background: url(../images/background.png) no-repeat center top;
+	margin-top: 0px;
 	padding-top: 100px;
 	text-align: center;
 	background-attachment: relative;
