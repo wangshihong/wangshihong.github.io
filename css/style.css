@@ -210,9 +210,9 @@ p .center {
 	background-color: #2f2f2f; */
     
 	background: url(../images/background.png) no-repeat center top;
-	margin-top: 0px;
+	margin-top: -100px;
 	padding-top: 100px;
-	text-align: center;
+	text-align: justify;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 300px;
