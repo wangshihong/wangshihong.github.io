@@ -160,7 +160,7 @@ p .center {
 	text-align: center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 350px;
+	min-height: 1000px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
